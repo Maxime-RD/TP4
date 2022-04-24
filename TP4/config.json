@@ -1,0 +1,9 @@
+{
+
+	"token": "OTY0NDIxODg3MDU0NzI5MjQ2.YlkZ3w.LLBr7TduO8lPcRbBHlXrcrUwlKk",
+	"prefix": "!",
+
+	"log_format": "%(asctime)s %(message)s",
+	"log_date":  "[%m/%d/%Y-%I:%M:%S]",
+	"log_file": "TP4.log"
+}
